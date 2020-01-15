@@ -1,0 +1,55 @@
+Metro,Civilian Labor Force,Employment,Unemployment,Unemployment Rate (%),Employment in STEM Occupations (%),"Median Hourly Wage, Freight, Stock and Material Movers ($ Dollars)","Median Hourly Wage, Secretaries ($ Dollars)","Median Hourly Wage, Computer Systems Analysts ($ Dollars)"
+Atlanta metro,3071570,2955581,115989,3.8,7.6,$12.45,$17.03,$43.11
+"Austin, TX metro",1197091,1162048,35043,2.9,11.1,12.32,17.42,39.75
+Baltimore metro,1493498,1433985,59513,4,8.9,14.01,19.51,44.39
+Birmingham metro,544863,525609,19254,3.5,5.1,12.58,17.54,37
+Boston metro,2811239,2726408,84831,3,10.6,14.87,22.65,44.47
+Buffalo metro,542584,517813,24771,4.6,5.3,14.04,17.5,39.18
+Charlotte metro,1333079,1284501,48578,3.6,6.9,12.49,17.92,44.3
+Chicago metro,4876388,4679324,197064,4,6,12.84,18.31,41.89
+Cincinnati metro,1115798,1071615,44183,4,6.7,13.69,17.69,39.66
+"Cleveland, OH metro",1035341,982960,52381,5.1,6.2,13.57,17.57,38.56
+"Columbus, OH metro",1080762,1039186,41576,3.8,7.6,13.9,18.21,43.03
+Dallas metro,3900458,3763972,136486,3.5,7.2,13.91,17.84,44.09
+Denver metro,1646342,1594367,51975,3.2,9.6,14.49,18.98,45.03
+Detroit metro,2130620,2039464,91156,4.3,9.6,14.32,17.87,39.22
+Hartford metro,626086,600297,25789,4.1,7.8,13.87,22.44,44.97
+Houston metro,3390634,3244696,145938,4.3,7.3,12.83,17.26,47.55
+Indianapolis metro,1061804,1027564,34240,3.2,6.7,13.92,16.66,36.99
+"Jacksonville, FL metro",773492,747223,26269,3.4,5,13.26,16.26,37.64
+Kansas City metro,1134497,1096474,38023,3.4,7.5,14.21,17.75,36.7
+"Las Vegas, NV metro",1098114,1045471,52643,4.8,2.9,13.13,18.65,39.4
+Los Angeles-Long Beach metro,6761767,6474397,287370,4.2,6,13.39,20.31,45.17
+Louisville metro,670804,644912,25892,3.9,5.1,13.65,16.44,35.57
+Memphis metro,634897,608599,26298,4.1,3.8,12.75,16.98,33.57
+"Miami, FL metro",3150517,3036270,114247,3.6,4.1,12.77,16.72,38.34
+Milwaukee metro,824848,798490,26358,3.2,6.3,15.33,18.16,38.21
+Minneapolis-St. Paul metro,2001278,1947996,53282,2.7,8.2,16.36,20.52,44.17
+Nashville metro,1042993,1014546,28447,2.7,5.5,13.67,17.06,35.57
+New Orleans metro,594959,567446,27513,4.6,4.2,12.16,16.26,36.29
+New York metro,9934777,9538276,396501,4,5.6,13.43,20.02,50.96
+Oklahoma City metro,681615,660343,21272,3.1,6.4,14.44,15.2,34.2
+Orlando metro,1337790,1293947,43843,3.3,5.2,13,16.11,39.2
+Philadelphia metro,3082420,2952865,129555,4.2,7.2,14,18.72,47.7
+Phoenix metro,2407741,2306482,101259,4.2,6.9,13.67,17.18,42.78
+Pittsburgh metro,1203535,1152301,51234,4.3,7.2,14.22,16.96,41.65
+"Portland, OR metro",1313058,1261999,51059,3.9,8.6,14.51,19.45,43.65
+Providence metro,690290,662151,28139,4.1,5.3,13.26,20.16,46.56
+Raleigh metro,711326,687064,24262,3.4,11.5,12.63,17.88,43.76
+"Richmond, VA metro",675649,654321,21328,3.2,6.4,12.32,18.15,46.62
+Riverside-San Bernardino metro,2053401,1966814,86587,4.2,2.9,14.14,18.62,39.76
+Sacramento metro,1095762,1055145,40617,3.7,7.1,13.87,18.78,41.63
+Salt Lake City metro,653521,633609,19912,3,8.1,13.84,16.95,36.94
+San Antonio metro,1189664,1150333,39331,3.3,5,12.96,16.5,40.55
+San Diego metro,1592193,1539530,52663,3.3,9.2,13.59,19.7,44.77
+San Francisco metro,2584337,2514184,70153,2.7,11.2,16.11,23.14,55.72
+San Jose metro,1079672,1050829,28843,2.7,21,17.05,22.63,57.14
+Seattle metro,2113294,2031699,81595,3.9,11.6,16.28,21.79,47.62
+St. Louis metro,1459244,1409294,49950,3.4,6.4,14.86,17.75,43.22
+Tampa-St. Petersburg metro,1530842,1477702,53140,3.5,5.7,12.55,16.43,40.43
+Virginia Beach-Norfolk metro,849658,821973,27685,3.3,6.8,12.63,17.38,39.14
+"Washington, DC metro",3393091,3280957,112134,3.3,11.8,13.44,21.54,49.06
+Source,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics,U.S. Bureau of Labor Statistics
+Date of Data,Date of Data: 2018,Date of Data: 2018,Date of Data: 2018,Date of Data: 2018,Date of Data: May 2018,Date of Data: May 2018,Date of Data: May 2018,Date of Data: May 2018
+Note,,,,,,"SOC Code 53-7062, Freight, Stock and Material Movers.","SOC Code 43-6014, Secretaries, Except Legal, Medical, and Executive.","SOC Code 15-1121, Computer Systems Analysts."
+Quote,"""Baltimore and Washington metros offer diverse, skilled labor pools.""","""The Baltimore and Washington metros combined comprise the largest employment center in the Mid-Atlantic or Southeast U.S.""","""Unemployment in the Baltimore and Washington metros has decreased each year since 2010.""","""Unemployment in the Baltimore and Washington metros has decreased each year since 2010.""","""Washington DC is 2nd and Baltimore 11th among the top 50 metros for percentage of workers in STEM occupations.""","""Wages in the Baltimore metro area are competitive with other major East and West Coast cities.""","""Wages in the Baltimore metro area are competitive with other major East and West Coast cities.""","""Wages in the Baltimore metro area are competitive with other major East and West Coast cities."""
